@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Innovative Solutions for Modern Challenges - Discover the Future Today",
+        "title": "Unleash the Power of Sq: Elevate Your Experience"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Innovative Solutions for Modern Challenges - Discover the Future Today",
+        "title": "Unleash the Power of Sq: Elevate Your Experience"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Innovative Solutions for Modern Challenges - Discover the Future Today",
+        "title": "Unleash the Power of Sq: Elevate Your Experience"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Innovative Solutions for Modern Challenges - Discover the Future Today",
+        "title": "Unleash the Power of Sq: Elevate Your Experience"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Innovative Solutions for Modern Challenges - Discover the Future Today",
+        "title": "Unleash the Power of Sq: Elevate Your Experience"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Innovative Solutions for Modern Challenges - Discover the Future Today",
+        "title": "Unleash the Power of Sq: Elevate Your Experience"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Innovative Solutions for Modern Challenges - Discover the Future Today",
+        "title": "Unleash the Power of Sq: Elevate Your Experience"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Innovative Solutions for Modern Challenges - Discover the Future Today",
+        "title": "Unleash the Power of Sq: Elevate Your Experience"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Unleash the Power of Sq: Elevate Your Experience",
+  "subtitle": "Innovative Solutions for Modern Challenges - Discover the Future Today"
+}
